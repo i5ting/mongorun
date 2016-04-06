@@ -1,0 +1,2 @@
+# mongorun
+run mongo command 
