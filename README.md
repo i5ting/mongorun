@@ -1,6 +1,9 @@
 # mongorun
 
-run mongo command 
+run mongo command in Node.js
+
+[![npm version](https://badge.fury.io/js/mongorun.svg)](http://badge.fury.io/js/mongorun)
+
 
 一般我们在robo里执行命令查看结果
 
@@ -13,7 +16,7 @@ db.runCommand( { serverStatus: 1 } ).connections
 ## 安装
 
 ```
-npm install -- save mongorun
+npm install --save mongorun
 ```
 
 ## 用法
