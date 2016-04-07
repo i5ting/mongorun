@@ -1,6 +1,6 @@
 {
-    "host": "localhost"
-  , "port": 27017
-  , "reconnect": true
-  , "reconnectInterval": 50
+  "host": "localhost", 
+  "port": 27017, 
+  "reconnect": true, 
+  "reconnectInterval": 50
 }
